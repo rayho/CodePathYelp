@@ -18,7 +18,7 @@ Filter page.
 - Radius (meters)
 - Deals (on/off).
 
-See demo.gif for walkthrough
+See demo.gif for walkthrough.
 
 ![Walkthrough GIF](https://github.com/rayho/CodePathYelp/blob/master/demo.gif)
 
