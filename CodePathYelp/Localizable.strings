@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  CodePathYelp
+
+  Created by Ray Ho on 9/21/14.
+  Copyright (c) 2014 Prime Rib Software. All rights reserved.
+*/
+
+"REVIEW_COUNT" = "%u Reviews";
